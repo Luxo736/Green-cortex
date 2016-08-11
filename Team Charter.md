@@ -1,7 +1,7 @@
 #Team Charter for Medsci736 – Project Machine Learning
 
 #Vision
-to obtain data management siklls and to become highly qualified digital researcher.
+To obtain data management siklls and to become highly qualified digital researcher.
 #Mission
 To complete a software-based project (Machine learning) using Python 3.5 and shell programing with the support of a supervisor, teaching staff and students of Medsci-736.  
 #Success Criteria
