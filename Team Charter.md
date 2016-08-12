@@ -23,9 +23,10 @@ To complete a software-based project (Machine learning) using Python 3.5 and she
 
 
 #Team Members
-- Jerome Plumat - Product Owner- j.plumat@auckland.ac.nz
+- Jerome Plumat - Product Owner/Client- j.plumat@auckland.ac.nz
 - Fabiana Kubke - Product Owner/Development Team- f.kubke@auckland.ac.nz 
-- Sanjid        - Scrum master/Development Team- srah064@aucklanduni.ac.nz
+- Tanya Gray    - Scrum master- tgra057@aucklanduni.ac.nz
+- Sanjid Rahman - Development Team- srah064@aucklanduni.ac.nz
 - Ahmed Adam    - Development Team- aada071@aucklanduni.ac.nz
 
 
